@@ -15,7 +15,7 @@ This is a test site created as part of the BYOD (Build Your Own Domain) event. I
 # Getting Started
 Clone the repository:
 ```bash
-git clone https://github.com/akshatggupta/GFG-OpenSource-Site.git
+git clone https://github.com/ElixirTechCommunity/BYOD-OpenSource-Site
 ```
 
 Navigate into the project directory:
