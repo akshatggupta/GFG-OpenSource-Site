@@ -653,6 +653,11 @@ footer {
     margin: 0 auto;
 }
 
+.contribute-section:hover {
+    transition: background-color 0.3s ease;
+
+}
+
 .step {
     background: #fff;
     padding: 2rem;
@@ -660,7 +665,15 @@ footer {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     text-align: center;
     position: relative;
+    transition: background-color 0.3s ease;
+
 }
+
+.step:hover {
+    transition: background-color 0.3s ease;
+
+}
+
 
 .step-number {
     width: 40px;
