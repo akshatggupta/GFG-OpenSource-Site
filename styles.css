@@ -342,6 +342,7 @@ footer {
 
 .key-figures {
     padding: 4rem 2rem;
+    background-size: cover;
     background-color: #f8f9fa;
 }
 
@@ -374,7 +375,7 @@ footer {
 
 .figure-card img {
     width: 100%;
-    height: 200px;
+    height: 300px;
     object-fit: cover;
 }
 
